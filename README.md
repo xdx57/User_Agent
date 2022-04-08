@@ -1,4 +1,4 @@
-# Generate Random User Agent
+# Create a random user agent used for scraping, bot, tools. etc
 
 Server1: http://penetration.ga/lib/ua.php
 
